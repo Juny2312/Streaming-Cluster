@@ -1,0 +1,100 @@
+annotated-types==0.5.0; python_version >= '3.7'
+anyio==3.7.1; python_version >= '3.7'
+click==8.1.6; python_version >= '3.7'
+exceptiongroup==1.1.2; python_version < '3.11'
+fastapi==0.101.0
+h11==0.14.0; python_version >= '3.7'
+httptools==0.6.0
+idna==3.4; python_version >= '3.5'
+pydantic==2.1.1; python_version >= '3.7'
+pydantic-core==2.4.0; python_version >= '3.7'
+python-dotenv==1.0.0
+pyyaml==6.0.1
+sniffio==1.3.0; python_version >= '3.7'
+starlette==0.27.0; python_version >= '3.7'
+typing-extensions==4.7.1; python_version >= '3.7'
+uvicorn[standard]==0.23.2
+uvloop==0.17.0
+watchfiles==0.19.0
+websockets==11.0.3
+sqlalchemy
+mysql-server 
+mysql_secure_installatoin 
+ca-certificates curl gnupg
+gnome-terminal
+cron
+cookiecutter
+xlrd
+pypi
+beautifulsoup4
+pandas 
+pyarrow
+pandas
+numpy
+jupyter
+ping
+fastapi
+scikit_learn
+streamlit-folium
+streamlit-elements==0.1.*
+streamlit-d3-demo
+streamlit-observable
+streamlit-echarts
+streamlit-bokeh-events
+barfi
+py3Dmol
+streamlit-agraph
+streamlit-pydantic
+streamlit-image-coordinates
+streamlit-plotly-events 
+kafka-python
+PyMySQL
+SQLAlchemy
+mysql
+nltk
+sentence_transformers
+databases 
+pymysql 
+sentence-transformers
+FastAPI-SQLModel
+python-multipart
+fastapi-utils
+fastapi-databases
+contextlib
+FastAPI-SQLAlchemy
+pyvis
+pydot
+numpy 
+pandas 
+streamlit-agraph
+pandas_datareader
+datetime
+sqlalchemy-orm
+faiss
+keras-cv
+fasttext
+tensorflow
+seaborn
+tensorflow.keras
+tensorflow
+keras
+tensorflow.keras
+keras-datasets==0.1.1a1
+Keras-Preprocessing
+sentence-transformers
+fasttext 
+attention
+tf-attention-layer
+attention
+gensim
+requests
+pybase64
+accelerate
+streamlit langchain openai tiktoken
+langchain
+rouge_score
+evaluate
+pytextrank
+pprintpp
+spacy
+fastapi-cors

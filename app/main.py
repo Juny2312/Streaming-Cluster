@@ -94,28 +94,20 @@ app.add_middleware(
 )
 
 def from_image_to_bytes(img):
-    """
-    pillow image 객체를 bytes로 변환
-    """
-    # Pillow 이미지 객체를 Bytes로 변환
+   
     imgByteArr = io.BytesIO()
     img.save(imgByteArr, format=img.format)
     imgByteArr = imgByteArr.getvalue()
-    # Base64로 Bytes를 인코딩
     encoded = base64.b64encode(imgByteArr)
-    # Base64로 ascii로 디코딩
     decoded = encoded.decode('ascii')
     return decoded
 
 
-# SQLite 데이터베이스 연결 설정
-DATABASE_URL = "mysql+pymysql://root:news1234@localhost:23306/news"
+DATABASE_URL = "mysql+pymysql://root:{}@localhost:{}}/news"
 engine = create_engine(DATABASE_URL)
 
-# 데이터베이스 세션 생성
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
-# 데이터베이스 모델 생성
 Base = declarative_base()
 
 class News(Base):
@@ -222,9 +214,9 @@ async def read_news():
 #             result = []
 
 #             for word in tokenized_sentence:
-#                 word = word.lower() # 모든 단어를 소문자화하여 단어의 개수를 줄인다.
-#                 if word not in stop_words: # 단어 토큰화 된 결과에 대해서 불용어를 제거한다.
-#                     if len(word) > 1: # 단어 길이가 2이하인 경우에 대하여 추가로 단어를 제거한다.
+#                 word = word.lower() .
+#                 if word not in stop_words: 
+#                     if len(word) > 1: 
 #                         result.append(word)
 #                         if word not in vocab:
 #                             vocab[word] = 0
@@ -266,9 +258,9 @@ async def ranked_key_news():
             result = []
 
             for word in tokenized_sentence:
-                word = word.lower() # 모든 단어를 소문자화하여 단어의 개수를 줄인다.
-                if word not in stop_words: # 단어 토큰화 된 결과에 대해서 불용어를 제거한다.
-                    if len(word) > 2: # 단어 길이가 2이하인 경우에 대하여 추가로 단어를 제거한다.
+                word = word.lower() 
+                if word not in stop_words: 
+                    if len(word) > 2: 
                         result.append(word)
                         if word not in vocab:
                             vocab[word] = 0
@@ -334,9 +326,9 @@ async def toss_title():
 #             result = []
 
 #             for word in tokenized_sentence:
-#                 word = word.lower() # 모든 단어를 소문자화하여 단어의 개수를 줄인다.
-#                 if word not in stop_words: # 단어 토큰화 된 결과에 대해서 불용어를 제거한다.
-#                     if len(word) > 1: # 단어 길이가 2이하인 경우에 대하여 추가로 단어를 제거한다.
+#                 word = word.lower() 
+#                 if word not in stop_words:
+#                     if len(word) > 1: 
 #                         result.append(word)
 #                         if word not in vocab:
 #                             vocab[word] = 0
@@ -460,17 +452,16 @@ async def summerizing_news():
         #print(sentences)
         vocab = {}
         preprocessed_sentences = []
-        stop_words = set(stopwords.words('english'))
+        stop_words = set(stopwords.words('english')) # stopwords need more refine strings for sign 
 
         for sentence in sentences:
-            # 단어 토큰화
             tokenized_sentence = word_tokenize(sentence)
             result = []
 
             for word in tokenized_sentence:
-                word = word.lower() # 모든 단어를 소문자화하여 단어의 개수를 줄인다.
-                if word not in stop_words: # 단어 토큰화 된 결과에 대해서 불용어를 제거한다.
-                    if len(word) > 2: # 단어 길이가 2이하인 경우에 대하여 추가로 단어를 제거한다.
+                word = word.lower() 
+                if word not in stop_words: 
+                    if len(word) > 2: 
                         result.append(word)
                         if word not in vocab:
                             vocab[word] = 0

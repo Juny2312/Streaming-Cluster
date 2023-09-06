@@ -1,5 +1,5 @@
 # Real-Time-Clustering
-World News Stream : Kafka, flink, python, Cluster Handling (option - Grafana)
+World News Stream : Kafka, flink, python, Cluster Handling 
 
 
 

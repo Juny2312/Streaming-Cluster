@@ -10,8 +10,8 @@ https://juny2312.github.io/generic2-1.html
 
 
 
-Version.1.0 (Current Src) \\
-[branch /dev](https://github.com/Juny2312/Real-Time-Clustering/tree/dev) 
+Version.1.0 (Current Src) 
+[branch /dev](https://github.com/Juny2312/Real-Time-Clustering/tree/dev) \
 ![version1](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/a3ba8a94-a8c1-4b90-bb00-94fbe8fd76ca) 
 
 

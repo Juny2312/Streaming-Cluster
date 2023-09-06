@@ -21,4 +21,7 @@ Version.2.0
 
 
 Version.3.0
-![version3](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/49955f7c-aebf-406a-83d7-a25187331f4b)
+![화면 캡처 2023-09-06 163204](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/9420b3e8-7107-4f0f-8cba-b36b1ad67826)
+
+
+

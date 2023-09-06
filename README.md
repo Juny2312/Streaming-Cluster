@@ -1,5 +1,5 @@
 # Real-Time-Clustering
-World News Stream : Kafka, ML Inference, Python, Cluster Handling 
+World News Stream : Kafka, ML Inference, Python, Cluster Handling , Nginx
 
 
 

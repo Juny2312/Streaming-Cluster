@@ -24,9 +24,10 @@ Version.1.0
 
 
 
-Version.1.0.1 (Current Src) \
+Version.1.0.1 (Current Src) 
 
 ![archi-1-2](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/1d5c970b-b42d-4420-9992-da58c11b89e6)
+
 
 
 
@@ -36,15 +37,18 @@ Version.2.0
 
 
 
+
 Version.3.0
 
 ![version3](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/9c3ad86a-4c87-47fc-9917-820c5e965d23)
 
 
 
+
 Version.4.0
 
 ![version4](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/03779935-72b0-4b1b-a464-369aa2edbf8b)
+
 
 
 

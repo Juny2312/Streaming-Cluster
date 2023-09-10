@@ -10,6 +10,7 @@ https://juny2312.github.io/generic2-1.html
 
 
 
+
 The latest .Version. \
 ![archi-1-5](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/07cccd7e-9e87-4823-a5b4-10de9e8cdfde)
 

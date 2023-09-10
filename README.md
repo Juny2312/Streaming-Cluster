@@ -20,7 +20,7 @@ The latest .Version. \
 
 Version.1.0 
 [branch /dev](https://github.com/Juny2312/Real-Time-Clustering/tree/dev) \
-![version1](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/a3ba8a94-a8c1-4b90-bb00-94fbe8fd76ca) \
+![version1](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/a3ba8a94-a8c1-4b90-bb00-94fbe8fd76ca) 
 
 
 

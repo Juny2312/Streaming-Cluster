@@ -1,5 +1,5 @@
 # Real-Time-Clustering
-World News Stream : Kafka, ML Inference, Python, Cluster Handling , Nginx, FastAPI, React, Streanlit, Flutter for Mobile, API Gateway, ECR, Airflow , Zookeeper, pySpark Cluster over Hadoop, RDB, ChromaDB, Langchain
+World News Stream : Kafka, ML Inference, Python, Cluster Handling , Nginx, FastAPI, React, Streanlit, Flutter for Mobile, API Gateway, ECR, Airflow , Zookeeper, pySpark Cluster over Hadoop, RDB, ChromaDB, Langchain, Kubernetes
 
 
 

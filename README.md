@@ -8,7 +8,7 @@ World News Stream : Kafka, ML Inference, Python, Cluster Handling , Nginx
 MORE INFO. : \
 https://juny2312.github.io/generic2-1.html \
 
-\
+
 
 
 The latest .Version. \

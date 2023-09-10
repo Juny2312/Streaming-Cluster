@@ -10,9 +10,7 @@ https://juny2312.github.io/generic2-1.html
 
 
 One Shot 
-![archi-1-5](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/323fa7f8-9ae6-4316-985b-da4c58580f89)
-
-
+![archi-1-5](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/07cccd7e-9e87-4823-a5b4-10de9e8cdfde)
 
 
 

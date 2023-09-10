@@ -9,7 +9,7 @@ MORE INFO. : \
 https://juny2312.github.io/generic2-1.html 
 
 
-One Shot \
+The latest Version. \
 ![archi-1-5](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/07cccd7e-9e87-4823-a5b4-10de9e8cdfde)
 
 
@@ -22,7 +22,7 @@ Version.1.0
 
 
 
-Version.1.0.1 (Current Src) 
+Version.1.0.1 (Current Src) \
 ![archi-1-2](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/1d5c970b-b42d-4420-9992-da58c11b89e6)
 
 

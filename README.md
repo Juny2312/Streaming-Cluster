@@ -12,3 +12,64 @@ Would be revealed with DEMO !
 
 
 
+
+       +------------------------+
+       |       test_user        |
+       +------------------------+
+       | userID (PK)   char(17) |
+       | name          varchar(15)|
+       | addr          char(20)  |
+       | mobile        char(3)   |
+       | mdate         date      |
+       +------------------------+
+             |
+             |
+             | 1
+             |
+             |
+       +------------------------+
+       |    nasdaqPrice         |
+       +------------------------+
+       | num (PK)      int      |
+       | tickerID (FK) char(20) |
+       | price         int      |
+       +------------------------+
+             |
+             |
+             | M
+             |
+             |
+       +------------------------+
+       |     kospiPrice         |
+       +------------------------+
+       | num (PK)      int      |
+       | tickerID (FK) char(20) |
+       | price         int      |
+       +------------------------+
+             |
+             |
+             | M
+             |
+             |
+       +------------------------+
+       |    kosdaqPrice         |
+       +------------------------+
+       | num (PK)      int      |
+       | tickerID (FK) char(20) |
+       | price         int      |
+       +------------------------+
+             |
+             |
+             | 1
+             |
+             |
+       +------------------------+
+       |     newsDesk           |
+       +------------------------+
+       | num (PK)      int      |
+       | newsID (FK)   char(20) |
+       | newsTitle     char(20) |
+       | newsDes       varchar(1500) |
+       +------------------------+
+
+

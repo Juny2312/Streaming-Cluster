@@ -24,17 +24,6 @@ Version.1.0
 
 
 
-Version.1.0.1 (Current Src) \
-![archi-1-2](https://github.com/Juny2312/Real-Time-Clustering/assets/121748398/1d5c970b-b42d-4420-9992-da58c11b89e6)
-
-
-
-
-
-
-
-
-
 
 
 
